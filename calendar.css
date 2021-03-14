@@ -12,11 +12,13 @@ td, th{
 .CalendarHead{
     text-align: center;
     font-weight: normal;
+    border: none;
 }
  thead{
     padding-bottom: 20px;
     align-items: center;
     background-color: rgb(141, 204, 141);
+    border: none;
 }
 
 table{
@@ -42,6 +44,16 @@ a{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+#prevcl{
+    margin-top: 60px;
+    margin-right: 30px;
+}
+
+#nextcl{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
 
 .Dec1{
 background-color: rgb(146, 146, 226);
