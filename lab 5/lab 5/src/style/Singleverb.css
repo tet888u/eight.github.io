@@ -1,0 +1,64 @@
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; 
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .SingleContainer{
+    width: 70%;
+    height: 150px;
+    background-color:#ffffff;
+    margin-left: 15%;
+    margin-top: 20px;
+    display: table;
+    clear: both;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .Anycolor{
+    float: left;
+    width: 200px;
+    background-color:#b2dfdb;
+    height:200px;
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+  .Texts{
+    float: left;
+    width: 60%;
+    margin-left: 20px;
+  }
+    .titleSingle{
+    color:#646464;
+    }
+    .Maintext{
+    color:#5d5d5d;
+    }
+  .Aqua{
+      color: #3fc9dd;
+  }
+  .makelink{
+      margin-top:4%;
+  }
+
+ .player{
+     height: 50px;
+     width: 50px;
+     margin-top: 35%;
+ }
+ .test:after {
+  content: '\2807';
+  font-size: 20px;
+  color: #2e2e2e;
+  margin-left: 200px;
+  margin-top: 20px;
+}

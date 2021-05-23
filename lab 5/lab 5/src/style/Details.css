@@ -1,0 +1,36 @@
+.Purple{
+    width: 100px;
+    height: 100px;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.textMad{
+    float: left;
+    width: 85%;
+    margin-left: 10px;
+}
+
+.PurpleBut{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background-color:#5e35b1;
+    font-size: 26px;
+    border:none;
+  }
+  .PurpleContainer{
+      display: inline-block;
+  }
+  .ColorChange{
+      color:#0dabc0;
+      cursor: pointer;
+  }
+  .viewButtons{
+    text-align: end;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 20%;
+    cursor: pointer;
+  }

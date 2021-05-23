@@ -1,0 +1,16 @@
+.mypp{
+    margin-left: 20px;
+    color:#8b78c4;
+    margin-top: 15px;
+    display:inline-block;
+}
+.menu{
+    height: 50px;
+    width: 90%;
+    margin-left: 5%;
+    background-color: #4527a0;
+  }
+  .RaidBut{
+      text-align: end;
+      margin-right: 10px;
+  }

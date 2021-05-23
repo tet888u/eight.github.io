@@ -1,0 +1,22 @@
+.deatailsContaienr{
+    width: 70%;
+    height: 150px;
+    background-color:#ffffff;
+    margin-left: 15%;
+    margin-top: 20px;
+      display: table;
+  clear: both;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+    .titleDET{
+        margin-left: 15px;
+    }
+
+    .test2:after {
+        content: '\2807';
+        font-size: 20px;
+        color: #2e2e2e;
+        margin-left: 1070px;
+        margin-top: 20px;
+      }
